@@ -1,0 +1,15 @@
+Test 1: Car In Purchased Parking Time
+Parking Time: 60
+Purchased Time: 30
+
+Test 2: Car Just In Purchased Parking Time
+Parking Time: 60
+Purchased Time: 60
+
+Test 3: Car Out Of Purchased Parking Time
+Parking Time: 60
+Purchased Time: 120
+
+Test 4: Ticket More Than One Hour
+Parking Time: 90
+Purchased Time: 10

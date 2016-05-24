@@ -1,0 +1,71 @@
+Test 1:
+tails
+tails
+tails
+tails
+tails
+tails
+tails
+heads
+tails
+heads
+tails
+tails
+heads
+tails
+tails
+tails
+heads
+heads
+heads
+tails
+Number of times heads is facing up: 6
+Number of times tails is facing up: 14
+
+Test 2:
+heads
+tails
+tails
+heads
+heads
+tails
+heads
+heads
+tails
+tails
+heads
+heads
+tails
+heads
+heads
+tails
+tails
+tails
+tails
+heads
+Number of times heads is facing up: 10
+Number of times tails is facing up: 10
+
+Test 3:
+tails
+tails
+heads
+tails
+tails
+tails
+heads
+tails
+heads
+heads
+heads
+heads
+tails
+heads
+heads
+heads
+heads
+heads
+heads
+heads
+Number of times heads is facing up: 13
+Number of times tails is facing up: 7

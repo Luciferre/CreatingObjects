@@ -1,0 +1,23 @@
+Test 1: Car In Purchased Parking Time
+Car Color: Red
+Car Make: HONDA
+Car Model: A
+Car License Number: 001
+Fine: 25
+Police Officer Name: Jay
+Police Officer Badge Number: 3762805
+
+Test 2: Car Just In Purchased Parking Time
+The car is legal.
+
+Test 3: Car Out Of Purchased Parking Time
+The car is legal.
+
+Test 4: Ticket More Than One Hour
+Car Color: Red
+Car Make: HONDA
+Car Model: A
+Car License Number: 001
+Fine: 35
+Police Officer Name: Jay
+Police Officer Badge Number: 3762805
